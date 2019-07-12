@@ -2,7 +2,7 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv source-info-url="http://www.schedulesdirect.org" source-info-name="Schedules Direct" generator-info-name="tv_grab_zz_sdjson 1.1 2017/01/24 00:41:08">
-  <channel id="00411">
+  <channel id="I6.195652629.microsoft.com">
     <display-name>THE CW NETWORK HD</display-name>
   </channel>
 <programme start="20150713000000 +0000" stop="20150713020000 +0000" channel="I6.195652629.microsoft.com">
